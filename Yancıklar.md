@@ -6,7 +6,7 @@
 
 > 3 Projemiz var:
 
-> [Nodepay](https://app.nodepay.ai/register?ref=pvAqqadUHkSZcrP) 
+> [Nodepay](https://app.nodepay.ai/register?ref=btihGhAZftHFZAh) 
 
 > [OasisAI](https://r.oasis.ai/rues)
 
