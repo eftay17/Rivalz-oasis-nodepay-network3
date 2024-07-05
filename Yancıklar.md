@@ -10,7 +10,7 @@
 
 > [OasisAI](https://r.oasis.ai/yukovskinode)
 
-> [Network3](https://account.network3.ai/register_page?rc=6ef6d1a8)
+> [Network3](https://account.network3.ai/register_page?rc=a141318b)
 
 #
 
