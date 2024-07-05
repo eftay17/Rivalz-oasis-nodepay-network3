@@ -26,7 +26,7 @@
 
 ## OasisAI
 
-> [Buradan](https://r.oasis.ai/rues) bir hesap oluşturup, extensionu kuruyorsunuz.
+> [Buradan](https://r.oasis.ai/yukovskinode) bir hesap oluşturup, extensionu kuruyorsunuz.
 
 > Çalıştırdıktan sonra chrome/edge kapatmayın.
 
