@@ -188,3 +188,22 @@ Herşey doğru bir şekilde tamamlandıysa bizi ubuntu masaüstü karşılayacak
 **```NOT 2:``` Masaüstünde yaptığınız tüm işlemler sunucunun tamamında etkili olabileceği ve içerisinde çalışan diğer nodelara etki edebileceği için lütfen sadece gerekli işlemleri yapın.**
 
 **```NOT 3:``` Kurulumla ilgili tüm sorumluluk kuran kişiye aittir. Oluşabilecek herhangi bir hatadan veya kayıptan kuran kişi tamamen kendisi sorumludur.**
+
+
+
+Herşey yolunda gittiyse kendi pc nızde arama yerıne gıdın mstsc yazın ve acın.
+sunucunuz ip sini girin.
+kullanıcı adı belırledıgınız kullanıcı adı ve sıfreyı girin ve sunucunuza baglanmıs oluyorsunuz 
+
+
+Sunucuya chrome yuklemek.
+Baglı oldugunuz sunucuda Ctrl + Alt + T basarak termınalı acın ve sırasıyla kodları gırın
+```
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+
+sudo apt-get install -f
+
+google-chrome
+```
