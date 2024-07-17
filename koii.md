@@ -17,7 +17,7 @@
 
 > Koii'de mümkün mertebe ne kadar token toplayabiliyorsanız o kadar iyi.
 
-> [Buradan](https://www.koii.network/node?promo=92E8B4895861) indiriyoruz.
+> [Buradan](https://www.koii.network/node?promo=94BACAD6108F) indiriyoruz.
 
 > Kurulumda yeni bir key oluşturuyoruz diyerek cüzdan açalım pinimizi belirledikten sonra.
 
@@ -25,7 +25,7 @@
 
 > Cüzdanı import edelim Finnie'ye ve faucet alalım [buradan](https://faucet.koii.network/faucet).
 
-> İlk önce Mail verify edelim, akabinden ref code sanırım 5 token veriyor: `92E8B4895861`
+> İlk önce Mail verify edelim, akabinden ref code sanırım 5 token veriyor: `94BACAD6108F`
 
 > Mail onaylamadan ref: alma/verme olmuyor gördüğüm.
 
